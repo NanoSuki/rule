@@ -12,5 +12,6 @@ fi
 
 # 编译 sing-box
 cd sing-box
-git checkout v${version}
+# git checkout v${version}
+git checkout v1.12.17
 make install
